@@ -1,0 +1,1 @@
+<view bind:__l="__l"><view class="body"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><home-list-item item="{{item}}" index="{{index}}" data-event-opts="{{[['^updateuserbind',[['__init']]]]}}" bind:updateuserbind="__e"></home-list-item></block></block></view></view>

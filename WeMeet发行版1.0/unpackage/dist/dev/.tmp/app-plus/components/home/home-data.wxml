@@ -1,0 +1,1 @@
+<view class="home-data u-f-ac animated fadeIn fast data-v-28f31d79" bind:__l="__l"><block wx:for="{{homedata}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block class="data-v-28f31d79"><view class="u-f1 u-f-ajc u-f-column data-v-28f31d79"><view class="data-v-28f31d79">{{item.num}}</view>{{item.name+''}}</view></block></block></view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "About WeMeet",
+  "usingComponents": {
+    "home-list-item": "/components/home/home-list-item"
+  }
+}

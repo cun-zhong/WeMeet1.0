@@ -1,0 +1,28 @@
+
+.paper-list.data-v-b6542e46{
+	border-bottom: 1rpx solid #EEEEEE;
+	padding: 20rpx 0;
+}
+.paper-list>image.data-v-b6542e46{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 100%;
+	margin-right: 20rpx;
+	-webkit-flex-shrink: 0;
+	        flex-shrink: 0;
+}
+.paper-list>view.data-v-b6542e46{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.paper-list>view>view.data-v-b6542e46:first-child{
+	font-size: 35rpx;
+}
+.paper-list>view>view:first-child>view.data-v-b6542e46{
+	color: #CBCBCB;
+}
+.paper-list>view>view.data-v-b6542e46:last-child{
+	color: #999999;
+}
+
